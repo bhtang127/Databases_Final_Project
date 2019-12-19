@@ -1,0 +1,529 @@
+person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_year,playercode,team_id,team_city,team_name,team_abbreviation,team_code,games_played_flag,otherleague_experience_ch,name
+203518,"Abrines, Alex",Alex Abrines,FALSE,2016,2018,alex_abrines,0,,,,,Y,00,Alex Abrines
+203112,"Acy, Quincy",Quincy Acy,TRUE,2012,2018,quincy_acy,1610612758,Sacramento,Kings,SAC,kings,Y,01,Quincy Acy
+1629121,"Adams, Jaylen",Jaylen Adams,FALSE,2018,2018,jaylen_adams,0,,,,,Y,01,Jaylen Adams
+203500,"Adams, Steven",Steven Adams,TRUE,2013,2019,steven_adams,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00,Steven Adams
+1628389,"Adebayo, Bam",Bam Adebayo,FALSE,2017,2019,bam_adebayo,0,,,,,Y,00,Bam Adebayo
+1629061,"Adel, Deng",Deng Adel,FALSE,2018,2018,deng_adel,0,,,,,Y,01,Deng Adel
+1629152,"Akoon-Purcell, DeVaughn",DeVaughn Akoon-Purcell,FALSE,2018,2018,devaughn_akoon-purcell,0,,,,,Y,01,DeVaughn Akoon-Purcell
+200746,"Aldridge, LaMarcus",LaMarcus Aldridge,TRUE,2006,2019,lamarcus_aldridge,1610612759,San Antonio,Spurs,SAS,spurs,Y,00,LaMarcus Aldridge
+1628959,"Alkins, Rawle",Rawle Alkins,FALSE,2018,2018,rawle_alkins,0,,,,,Y,01,Rawle Alkins
+1628960,"Allen, Grayson",Grayson Allen,FALSE,2018,2019,grayson_allen,0,,,,,Y,01,Grayson Allen
+1628386,"Allen, Jarrett",Jarrett Allen,FALSE,2017,2019,jarrett_allen,0,,,,,Y,00,Jarrett Allen
+1628443,"Allen, Kadeem",Kadeem Allen,FALSE,2017,2019,kadeem_allen,0,,,,,Y,01,Kadeem Allen
+202329,"Aminu, Al-Farouq",Al-Farouq Aminu,TRUE,2010,2019,al-farouq_aminu,1610612757,Portland,Trail Blazers,POR,blazers,Y,00,Al-Farouq Aminu
+1626147,"Anderson, Justin",Justin Anderson,TRUE,2015,2018,justin_anderson,1610612742,Dallas,Mavericks,DAL,mavericks,Y,11,Justin Anderson
+203937,"Anderson, Kyle",Kyle Anderson,TRUE,2014,2019,kyle_anderson,1610612759,San Antonio,Spurs,SAS,spurs,Y,01,Kyle Anderson
+201583,"Anderson, Ryan",Ryan Anderson,TRUE,2008,2019,ryan_anderson,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00,Ryan Anderson
+1628387,"Anigbogu, Ike",Ike Anigbogu,FALSE,2017,2018,ike_anigbogu,0,,,,,Y,01,Ike Anigbogu
+203507,"Antetokounmpo, Giannis",Giannis Antetokounmpo,TRUE,2013,2019,giannis_antetokounmpo,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00,Giannis Antetokounmpo
+1628961,"Antetokounmpo, Kostas",Kostas Antetokounmpo,FALSE,2018,2019,kostas_antetokounmpo,0,,,,,Y,01,Kostas Antetokounmpo
+2546,"Anthony, Carmelo",Carmelo Anthony,TRUE,2003,2019,carmelo_anthony,1610612752,New York,Knicks,NYK,knicks,Y,00,Carmelo Anthony
+1628384,"Anunoby, OG",OG Anunoby,FALSE,2017,2019,og_anunoby,0,,,,,Y,00,OG Anunoby
+1627853,"Arcidiacono, Ryan",Ryan Arcidiacono,FALSE,2017,2019,ryan_arcidiacono,0,,,,,Y,01,Ryan Arcidiacono
+2772,"Ariza, Trevor",Trevor Ariza,TRUE,2004,2019,trevor_ariza,1610612745,Houston,Rockets,HOU,rockets,Y,00,Trevor Ariza
+201571,"Augustin, D.J.",D.J. Augustin,TRUE,2008,2019,d.j._augustin,1610612743,Denver,Nuggets,DEN,nuggets,Y,00,D.J. Augustin
+1629028,"Ayton, Deandre",Deandre Ayton,FALSE,2018,2019,deandre_ayton,0,,,,,Y,00,Deandre Ayton
+1628407,"Bacon, Dwayne",Dwayne Bacon,FALSE,2017,2019,dwayne_bacon,0,,,,,Y,01,Dwayne Bacon
+1628963,"Bagley III, Marvin",Marvin Bagley III,FALSE,2018,2019,marvin_bagley_iii,0,,,,,Y,00,Marvin Bagley III
+1627758,"Baker, Ron",Ron Baker,FALSE,2016,2018,ron_baker,0,,,,,Y,01,Ron Baker
+1627735,"Baldwin IV, Wade",Wade Baldwin IV,FALSE,2016,2018,wade_baldwin iv,0,,,,,Y,01,Wade Baldwin IV
+1628366,"Ball, Lonzo",Lonzo Ball,FALSE,2017,2019,lonzo_ball,0,,,,,Y,00,Lonzo Ball
+1628964,"Bamba, Mo",Mo Bamba,FALSE,2018,2019,mohamed_bamba,0,,,,,Y,00,Mo Bamba
+200826,"Barea, J.J.",J.J. Barea,TRUE,2006,2019,j.j._barea,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01,J.J. Barea
+203084,"Barnes, Harrison",Harrison Barnes,TRUE,2012,2019,harrison_barnes,1610612744,Golden State,Warriors,GSW,warriors,Y,00,Harrison Barnes
+203115,"Barton, Will",Will Barton,TRUE,2012,2019,will_barton,1610612743,Denver,Nuggets,DEN,nuggets,Y,01,Will Barton
+1628966,"Bates-Diop, Keita",Keita Bates-Diop,FALSE,2018,2019,keita_bates-diop,0,,,,,Y,01,Keita Bates-Diop
+201587,"Batum, Nicolas",Nicolas Batum,TRUE,2008,2019,nicolas_batum,1610612766,Charlotte,Hornets,CHA,hornets,Y,00,Nicolas Batum
+201573,"Bayless, Jerryd",Jerryd Bayless,TRUE,2008,2018,jerryd_bayless,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00,Jerryd Bayless
+203382,"Baynes, Aron",Aron Baynes,TRUE,2012,2019,aron_baynes,1610612765,Detroit,Pistons,DET,pistons,Y,01,Aron Baynes
+203145,"Bazemore, Kent",Kent Bazemore,TRUE,2012,2019,kent_bazemore,1610612737,Atlanta,Hawks,ATL,hawks,Y,01,Kent Bazemore
+203078,"Beal, Bradley",Bradley Beal,TRUE,2012,2019,bradley_beal,1610612764,Washington,Wizards,WAS,wizards,Y,00,Bradley Beal
+1627736,"Beasley, Malik",Malik Beasley,FALSE,2016,2019,malik_beasley,0,,,,,Y,01,Malik Beasley
+201563,"Beasley, Michael",Michael Beasley,TRUE,2008,2018,michael_beasley,1610612745,Houston,Rockets,HOU,rockets,Y,00,Michael Beasley
+201158,"Belinelli, Marco",Marco Belinelli,TRUE,2007,2019,marco_belinelli,1610612758,Sacramento,Kings,SAC,kings,Y,00,Marco Belinelli
+1628395,"Bell, Jordan",Jordan Bell,FALSE,2017,2019,jordan_bell,0,,,,,Y,01,Jordan Bell
+1627761,"Bembry, DeAndre'",DeAndre' Bembry,FALSE,2016,2019,deandre'_bembry,0,,,,,Y,01,DeAndre' Bembry
+1627733,"Bender, Dragan",Dragan Bender,FALSE,2016,2019,dragan_bender,0,,,,,Y,01,Dragan Bender
+1629541,"Bertans, Dairis",Dairis Bertans,FALSE,2018,2018,tmp_dairis_bertans,0,,,,,Y,00,Dairis Bertans
+202722,"Bertans, Davis",Davis Bertans,FALSE,2016,2019,davis_bertans,0,,,,,Y,01,Davis Bertans
+201976,"Beverley, Patrick",Patrick Beverley,TRUE,2012,2019,patrick_beverley,1610612745,Houston,Rockets,HOU,rockets,Y,01,Patrick Beverley
+203920,"Birch, Khem",Khem Birch,FALSE,2017,2019,khem_birch,0,,,,,Y,01,Khem Birch
+202687,"Biyombo, Bismack",Bismack Biyombo,TRUE,2011,2019,bismack_biyombo,1610612761,Toronto,Raptors,TOR,raptors,Y,00,Bismack Biyombo
+202357,"Bjelica, Nemanja",Nemanja Bjelica,TRUE,2015,2019,nemanja_bjelica,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00,Nemanja Bjelica
+1628469,"Blakeney, Antonio",Antonio Blakeney,FALSE,2017,2018,antonio_blakeney,0,,,,,Y,01,Antonio Blakeney
+202339,"Bledsoe, Eric",Eric Bledsoe,TRUE,2010,2019,eric_bledsoe,1610612756,Phoenix,Suns,PHX,suns,Y,01,Eric Bledsoe
+1628417,"Blossomgame, Jaron",Jaron Blossomgame,FALSE,2018,2018,jaron_blossomgame,0,,,,,Y,01,Jaron Blossomgame
+203992,"Bogdanovic, Bogdan",Bogdan Bogdanovic,FALSE,2017,2019,bogdan_bogdanovic,0,,,,,Y,00,Bogdan Bogdanovic
+202711,"Bogdanovic, Bojan",Bojan Bogdanovic,TRUE,2014,2019,bojan_bogdanovic,1610612751,Brooklyn,Nets,BKN,nets,Y,00,Bojan Bogdanovic
+101106,"Bogut, Andrew",Andrew Bogut,TRUE,2005,2018,andrew_bogut,1610612744,Golden State,Warriors,GSW,warriors,Y,00,Andrew Bogut
+1628413,"Bolden, Jonah",Jonah Bolden,FALSE,2018,2019,jonah_bolden,0,,,,,Y,01,Jonah Bolden
+1629067,"Bonga, Isaac",Isaac Bonga,FALSE,2018,2019,isaac_bonga,0,,,,,Y,01,Isaac Bonga
+1626164,"Booker, Devin",Devin Booker,TRUE,2015,2019,devin_booker,1610612756,Phoenix,Suns,PHX,suns,Y,00,Devin Booker
+1628449,"Boucher, Chris",Chris Boucher,FALSE,2017,2019,chris_boucher,0,,,,,Y,01,Chris Boucher
+202340,"Bradley, Avery",Avery Bradley,TRUE,2010,2019,avery_bradley,1610612738,Boston,Celtics,BOS,celtics,Y,01,Avery Bradley
+1628396,"Bradley, Tony",Tony Bradley,FALSE,2017,2019,tony_bradley,0,,,,,Y,01,Tony Bradley
+201147,"Brewer, Corey",Corey Brewer,TRUE,2007,2018,corey_brewer,1610612745,Houston,Rockets,HOU,rockets,Y,00,Corey Brewer
+1628969,"Bridges, Mikal",Mikal Bridges,FALSE,2018,2019,mikal_bridges,0,,,,,Y,00,Mikal Bridges
+1628970,"Bridges, Miles",Miles Bridges,FALSE,2018,2019,miles_bridges,0,,,,,Y,00,Miles Bridges
+1628515,"Briscoe, Isaiah",Isaiah Briscoe,FALSE,2018,2018,isaiah_briscoe,0,,,,,Y,01,Isaiah Briscoe
+1629151,"Broekhoff, Ryan",Ryan Broekhoff,FALSE,2018,2019,ryan_broekhoff,0,,,,,Y,00,Ryan Broekhoff
+1627763,"Brogdon, Malcolm",Malcolm Brogdon,FALSE,2016,2019,malcolm_brogdon,0,,,,,Y,00,Malcolm Brogdon
+1628415,"Brooks, Dillon",Dillon Brooks,FALSE,2017,2019,dillon_brooks,0,,,,,Y,00,Dillon Brooks
+202705,"Brooks, MarShon",MarShon Brooks,FALSE,2011,2018,marshon_brooks,0,,,,,Y,01,MarShon Brooks
+1628971,"Brown, Bruce",Bruce Brown,FALSE,2018,2019,tmp_bruce_brown,0,,,,,Y,01,Bruce Brown
+1627759,"Brown, Jaylen",Jaylen Brown,FALSE,2016,2019,jaylen_brown,0,,,,,Y,00,Jaylen Brown
+203485,"Brown, Lorenzo",Lorenzo Brown,TRUE,2013,2018,lorenzo_brown,1610612765,Detroit,Pistons,DET,pistons,Y,11,Lorenzo Brown
+1628425,"Brown, Sterling",Sterling Brown,FALSE,2017,2019,sterling_brown,0,,,,,Y,01,Sterling Brown
+1628972,"Brown Jr., Troy",Troy Brown Jr.,FALSE,2018,2019,troy_brown_jr,0,,,,,Y,01,Troy Brown Jr.
+1628973,"Brunson, Jalen",Jalen Brunson,FALSE,2018,2019,jalen_brunson,0,,,,,Y,00,Jalen Brunson
+1628418,"Bryant, Thomas",Thomas Bryant,FALSE,2017,2019,thomas_bryant,0,,,,,Y,01,Thomas Bryant
+203493,"Bullock, Reggie",Reggie Bullock,TRUE,2013,2019,reggie_bullock,1610612765,Detroit,Pistons,DET,pistons,Y,11,Reggie Bullock
+203504,"Burke, Trey",Trey Burke,TRUE,2013,2019,trey_burke,1610612762,Utah,Jazz,UTA,jazz,Y,01,Trey Burke
+202692,"Burks, Alec",Alec Burks,TRUE,2011,2019,alec_burks,1610612762,Utah,Jazz,UTA,jazz,Y,01,Alec Burks
+1629126,"Burton, Deonte",Deonte Burton,FALSE,2018,2019,deonte_burton,0,,,,,Y,01,Deonte Burton
+202710,"Butler, Jimmy",Jimmy Butler,TRUE,2011,2019,jimmy_butler,1610612741,Chicago,Bulls,CHI,bulls,Y,00,Jimmy Butler
+203998,"Caboclo, Bruno",Bruno Caboclo,TRUE,2014,2019,bruno_caboclo,1610612761,Toronto,Raptors,TOR,raptors,Y,11,Bruno Caboclo
+101181,"Calderon, Jose",Jose Calderon,TRUE,2005,2018,jose_calderon,1610612752,New York,Knicks,NYK,knicks,Y,00,Jose Calderon
+203484,"Caldwell-Pope, Kentavious",Kentavious Caldwell-Pope,TRUE,2013,2019,kentavious_caldwell-pope,1610612765,Detroit,Pistons,DET,pistons,Y,00,Kentavious Caldwell-Pope
+203477,"Canaan, Isaiah",Isaiah Canaan,TRUE,2013,2018,isaiah_canaan,1610612755,Philadelphia,76ers,PHI,sixers,Y,01,Isaiah Canaan
+203991,"Capela, Clint",Clint Capela,TRUE,2014,2019,clint_capela,1610612745,Houston,Rockets,HOU,rockets,Y,01,Clint Capela
+201960,"Carroll, DeMarre",DeMarre Carroll,TRUE,2009,2019,demarre_carroll,1610612761,Toronto,Raptors,TOR,raptors,Y,01,DeMarre Carroll
+1628975,"Carter, Jevon",Jevon Carter,FALSE,2018,2019,jevon_carter,0,,,,,Y,01,Jevon Carter
+1713,"Carter, Vince",Vince Carter,TRUE,1998,2019,vince_carter,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00,Vince Carter
+1628976,"Carter Jr., Wendell",Wendell Carter Jr.,FALSE,2018,2019,wendell_carter_jr,0,,,,,Y,00,Wendell Carter Jr.
+203487,"Carter-Williams, Michael",Michael Carter-Williams,TRUE,2013,2019,michael_carter-williams,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00,Michael Carter-Williams
+1627936,"Caruso, Alex",Alex Caruso,FALSE,2017,2019,alex_caruso,0,,,,,Y,01,Alex Caruso
+201956,"Casspi, Omri",Omri Casspi,TRUE,2009,2018,omri_casspi,1610612758,Sacramento,Kings,SAC,kings,Y,00,Omri Casspi
+1626161,"Cauley-Stein, Willie",Willie Cauley-Stein,TRUE,2015,2019,willie_cauley-stein,1610612758,Sacramento,Kings,SAC,kings,Y,00,Willie Cauley-Stein
+1628505,"Caupain, Troy",Troy Caupain,FALSE,2018,2018,troy_caupain,0,,,,,Y,01,Troy Caupain
+1628463,"Cavanaugh, Tyler",Tyler Cavanaugh,FALSE,2017,2018,tyler_cavanaugh,0,,,,,Y,01,Tyler Cavanaugh
+2199,"Chandler, Tyson",Tyson Chandler,TRUE,2001,2019,tyson_chandler,1610612756,Phoenix,Suns,PHX,suns,Y,00,Tyson Chandler
+201163,"Chandler, Wilson",Wilson Chandler,TRUE,2007,2019,wilson_chandler,1610612743,Denver,Nuggets,DEN,nuggets,Y,00,Wilson Chandler
+1629147,"Chealey, Joe",Joe Chealey,FALSE,2018,2018,joe_chealey,0,,,,,Y,01,Joe Chealey
+1629185,"Chiozza, Chris",Chris Chiozza,FALSE,2018,2019,chris_chiozza,0,,,,,Y,01,Chris Chiozza
+1627737,"Chriss, Marquese",Marquese Chriss,FALSE,2016,2019,marquese_chriss,0,,,,,Y,00,Marquese Chriss
+1629109,"Clark, Gary",Gary Clark,FALSE,2018,2019,gary_clark,0,,,,,Y,01,Gary Clark
+203546,"Clark, Ian",Ian Clark,TRUE,2013,2018,ian_clark,1610612744,Golden State,Warriors,GSW,warriors,Y,01,Ian Clark
+203903,"Clarkson, Jordan",Jordan Clarkson,TRUE,2014,2019,jordan_clarkson,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01,Jordan Clarkson
+1628381,"Collins, John",John Collins,FALSE,2017,2019,john_collins,0,,,,,Y,00,John Collins
+1628380,"Collins, Zach",Zach Collins,FALSE,2017,2019,zach_collins,0,,,,,Y,00,Zach Collins
+201954,"Collison, Darren",Darren Collison,TRUE,2009,2018,darren_collison,1610612758,Sacramento,Kings,SAC,kings,Y,00,Darren Collison
+1629045,"Colson, Bonzie",Bonzie Colson,FALSE,2018,2018,bonzie_colson,0,,,,,Y,01,Bonzie Colson
+201144,"Conley, Mike",Mike Conley,TRUE,2007,2019,mike_conley,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00,Mike Conley
+1626192,"Connaughton, Pat",Pat Connaughton,TRUE,2015,2019,pat_connaughton,1610612757,Portland,Trail Blazers,POR,blazers,Y,00,Pat Connaughton
+1626188,"Cook, Quinn",Quinn Cook,FALSE,2016,2019,quinn_cook,0,,,,,Y,11,Quinn Cook
+202326,"Cousins, DeMarcus",DeMarcus Cousins,TRUE,2010,2019,demarcus_cousins,1610612758,Sacramento,Kings,SAC,kings,Y,00,DeMarcus Cousins
+203496,"Covington, Robert",Robert Covington,TRUE,2013,2019,robert_covington,1610612755,Philadelphia,76ers,PHI,sixers,Y,01,Robert Covington
+203459,"Crabbe, Allen",Allen Crabbe,TRUE,2013,2019,allen_crabbe,1610612757,Portland,Trail Blazers,POR,blazers,Y,01,Allen Crabbe
+1628470,"Craig, Torrey",Torrey Craig,FALSE,2017,2019,torrey_craig,0,,,,,Y,01,Torrey Craig
+2037,"Crawford, Jamal",Jamal Crawford,TRUE,2000,2018,jamal_crawford,1610612746,LA,Clippers,LAC,clippers,Y,00,Jamal Crawford
+1628249,"Creek, Mitchell",Mitchell Creek,FALSE,2018,2018,mitchell_creek,0,,,,,Y,01,Mitchell Creek
+203109,"Crowder, Jae",Jae Crowder,TRUE,2012,2019,jae_crowder,1610612738,Boston,Celtics,BOS,celtics,Y,01,Jae Crowder
+201967,"Cunningham, Dante",Dante Cunningham,TRUE,2009,2018,dante_cunningham,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00,Dante Cunningham
+203552,"Curry, Seth",Seth Curry,TRUE,2013,2019,seth_curry,1610612758,Sacramento,Kings,SAC,kings,Y,01,Seth Curry
+201939,"Curry, Stephen",Stephen Curry,TRUE,2009,2019,stephen_curry,1610612744,Golden State,Warriors,GSW,warriors,Y,00,Stephen Curry
+203584,"Daniels, Troy",Troy Daniels,TRUE,2013,2019,troy_daniels,1610612766,Charlotte,Hornets,CHA,hornets,Y,01,Troy Daniels
+203076,"Davis, Anthony",Anthony Davis,TRUE,2012,2019,anthony_davis,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00,Anthony Davis
+1627738,"Davis, Deyonta",Deyonta Davis,FALSE,2016,2018,deyonta_davis,0,,,,,Y,01,Deyonta Davis
+202334,"Davis, Ed",Ed Davis,TRUE,2010,2019,ed_davis,1610612757,Portland,Trail Blazers,POR,blazers,Y,01,Ed Davis
+1629093,"Davis, Tyler",Tyler Davis,FALSE,2018,2018,tyler_davis,0,,,,,Y,01,Tyler Davis
+201942,"DeRozan, DeMar",DeMar DeRozan,TRUE,2009,2019,demar_derozan,1610612761,Toronto,Raptors,TOR,raptors,Y,00,DeMar DeRozan
+203473,"Dedmon, Dewayne",Dewayne Dedmon,TRUE,2013,2019,dewayne_dedmon,1610612753,Orlando,Magic,ORL,magic,Y,11,Dewayne Dedmon
+1626155,"Dekker, Sam",Sam Dekker,TRUE,2015,2018,sam_dekker,1610612745,Houston,Rockets,HOU,rockets,Y,11,Sam Dekker
+1629116,"Delgado, Angel",Angel Delgado,FALSE,2018,2018,angel_delgado,0,,,,,Y,01,Angel Delgado
+203521,"Dellavedova, Matthew",Matthew Dellavedova,TRUE,2013,2019,matthew_dellavedova,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00,Matthew Dellavedova
+2736,"Deng, Luol",Luol Deng,TRUE,2004,2018,luol_deng,1610612748,Miami,Heat,MIA,heat,Y,00,Luol Deng
+1629094,"Derrickson, Marcus",Marcus Derrickson,FALSE,2018,2018,marcus_derrickson,0,,,,,Y,01,Marcus Derrickson
+1628978,"DiVincenzo, Donte",Donte DiVincenzo,FALSE,2018,2019,donte_divincenzo,0,,,,,Y,01,Donte DiVincenzo
+1627767,"Diallo, Cheick",Cheick Diallo,FALSE,2016,2019,cheick_diallo,0,,,,,Y,01,Cheick Diallo
+1628977,"Diallo, Hamidou",Hamidou Diallo,FALSE,2018,2019,hamidou_diallo,0,,,,,Y,01,Hamidou Diallo
+203476,"Dieng, Gorgui",Gorgui Dieng,TRUE,2013,2019,gorgui_dieng,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00,Gorgui Dieng
+203915,"Dinwiddie, Spencer",Spencer Dinwiddie,TRUE,2014,2019,spencer_dinwiddie,1610612741,Chicago,Bulls,CHI,bulls,Y,11,Spencer Dinwiddie
+203915,"Dinwiddie, Spencer",Spencer Dinwiddie,TRUE,2014,2019,spencer_dinwiddie,1610612765,Detroit,Pistons,DET,pistons,Y,11,Spencer Dinwiddie
+1629029,"Doncic, Luka",Luka Doncic,FALSE,2018,2019,luka_don,0,,,,,Y,00,Luka Doncic
+1628416,"Dorsey, Tyler",Tyler Dorsey,FALSE,2017,2018,tyler_dorsey,0,,,,,Y,01,Tyler Dorsey
+1628422,"Dotson, Damyean",Damyean Dotson,FALSE,2017,2019,damyean_dotson,0,,,,,Y,01,Damyean Dotson
+1628408,"Dozier, PJ",PJ Dozier,FALSE,2017,2019,pj_dozier,0,,,,,Y,01,PJ Dozier
+201609,"Dragic, Goran",Goran Dragic,TRUE,2008,2019,goran_dragic,1610612748,Miami,Heat,MIA,heat,Y,00,Goran Dragic
+203083,"Drummond, Andre",Andre Drummond,TRUE,2012,2019,andre_drummond,1610612765,Detroit,Pistons,DET,pistons,Y,00,Andre Drummond
+201162,"Dudley, Jared",Jared Dudley,TRUE,2007,2019,jared_dudley,1610612764,Washington,Wizards,WAS,wizards,Y,00,Jared Dudley
+1627739,"Dunn, Kris",Kris Dunn,FALSE,2016,2019,kris_dunn,0,,,,,Y,00,Kris Dunn
+201142,"Durant, Kevin",Kevin Durant,TRUE,2007,2019,kevin_durant,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00,Kevin Durant
+1628979,"Duval, Trevon",Trevon Duval,FALSE,2018,2018,trevon_duval,0,,,,,Y,01,Trevon Duval
+1629053,"Edwards, Vincent",Vincent Edwards,FALSE,2018,2018,vincent_edwards,0,,,,,Y,01,Vincent Edwards
+1627740,"Ellenson, Henry",Henry Ellenson,FALSE,2016,2019,henry_ellenson,0,,,,,Y,01,Henry Ellenson
+201961,"Ellington, Wayne",Wayne Ellington,TRUE,2009,2019,wayne_ellington,1610612751,Brooklyn,Nets,BKN,nets,Y,00,Wayne Ellington
+203954,"Embiid, Joel",Joel Embiid,TRUE,2014,2019,joel_embiid,1610612755,Philadelphia,76ers,PHI,sixers,Y,00,Joel Embiid
+203516,"Ennis III, James",James Ennis III,TRUE,2014,2019,james_ennis iii,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,11,James Ennis III
+1629234,"Eubanks, Drew",Drew Eubanks,FALSE,2018,2019,drew_eubanks,0,,,,,Y,01,Drew Eubanks
+1628980,"Evans, Jacob",Jacob Evans,FALSE,2018,2019,jacob_evans,0,,,,,Y,01,Jacob Evans
+1628393,"Evans, Jawun",Jawun Evans,FALSE,2017,2018,jawun_evans,0,,,,,Y,01,Jawun Evans
+201936,"Evans, Tyreke",Tyreke Evans,TRUE,2009,2018,tyreke_evans,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00,Tyreke Evans
+203957,"Exum, Dante",Dante Exum,TRUE,2014,2019,dante_exum,1610612762,Utah,Jazz,UTA,jazz,Y,00,Dante Exum
+202702,"Faried, Kenneth",Kenneth Faried,TRUE,2011,2018,kenneth_faried,1610612743,Denver,Nuggets,DEN,nuggets,Y,00,Kenneth Faried
+202324,"Favors, Derrick",Derrick Favors,TRUE,2010,2019,derrick_favors,1610612762,Utah,Jazz,UTA,jazz,Y,00,Derrick Favors
+1626245,"Felicio, Cristiano",Cristiano Felicio,TRUE,2015,2019,cristiano_felicio,1610612741,Chicago,Bulls,CHI,bulls,Y,11,Cristiano Felicio
+101109,"Felton, Raymond",Raymond Felton,TRUE,2005,2018,raymond_felton,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00,Raymond Felton
+1628390,"Ferguson, Terrance",Terrance Ferguson,FALSE,2017,2019,terrance_ferguson,0,,,,,Y,01,Terrance Ferguson
+1627812,"Ferrell, Yogi",Yogi Ferrell,FALSE,2016,2019,yogi_ferrell,0,,,,,Y,01,Yogi Ferrell
+1627827,"Finney-Smith, Dorian",Dorian Finney-Smith,FALSE,2016,2019,dorian_finney-smith,0,,,,,Y,00,Dorian Finney-Smith
+1627854,"Forbes, Bryn",Bryn Forbes,FALSE,2016,2019,bryn_forbes,0,,,,,Y,01,Bryn Forbes
+203095,"Fournier, Evan",Evan Fournier,TRUE,2012,2019,evan_fournier,1610612753,Orlando,Magic,ORL,magic,Y,00,Evan Fournier
+1628368,"Fox, De'Aaron",De'Aaron Fox,FALSE,2017,2019,de'aaron_fox,0,,,,,Y,00,De'Aaron Fox
+204025,"Frazier, Tim",Tim Frazier,TRUE,2014,2019,tim_frazier,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,11,Tim Frazier
+1628982,"Frazier Jr., Melvin",Melvin Frazier Jr.,FALSE,2018,2019,melvin_frazier_jr,0,,,,,Y,01,Melvin Frazier Jr.
+202690,"Fredette, Jimmer",Jimmer Fredette,FALSE,2011,2018,jimmer_fredette,0,,,,,Y,11,Jimmer Fredette
+101112,"Frye, Channing",Channing Frye,TRUE,2005,2018,channing_frye,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00,Channing Frye
+1628365,"Fultz, Markelle",Markelle Fultz,FALSE,2017,2019,markelle_fultz,0,,,,,Y,00,Markelle Fultz
+201568,"Gallinari, Danilo",Danilo Gallinari,TRUE,2008,2019,danilo_gallinari,1610612743,Denver,Nuggets,DEN,nuggets,Y,00,Danilo Gallinari
+204038,"Galloway, Langston",Langston Galloway,TRUE,2014,2019,langston_galloway,1610612752,New York,Knicks,NYK,knicks,Y,01,Langston Galloway
+1628656,"Garrett, Billy",Billy Garrett,FALSE,2018,2018,billy_garrett,0,,,,,Y,01,Billy Garrett
+201188,"Gasol, Marc",Marc Gasol,TRUE,2008,2019,marc_gasol,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00,Marc Gasol
+2200,"Gasol, Pau",Pau Gasol,TRUE,2001,2018,pau_gasol,1610612741,Chicago,Bulls,CHI,bulls,Y,00,Pau Gasol
+200752,"Gay, Rudy",Rudy Gay,TRUE,2006,2019,rudy_gay,1610612758,Sacramento,Kings,SAC,kings,Y,00,Rudy Gay
+202331,"George, Paul",Paul George,TRUE,2010,2019,paul_george,1610612754,Indiana,Pacers,IND,pacers,Y,00,Paul George
+201959,"Gibson, Taj",Taj Gibson,TRUE,2009,2019,taj_gibson,1610612741,Chicago,Bulls,CHI,bulls,Y,00,Taj Gibson
+1628385,"Giles III, Harry",Harry Giles III,FALSE,2017,2019,harry_giles,0,,,,,Y,01,Harry Giles III
+1628983,"Gilgeous-Alexander, Shai",Shai Gilgeous-Alexander,FALSE,2018,2019,shai_gilgeous-alexander,0,,,,,Y,00,Shai Gilgeous-Alexander
+203497,"Gobert, Rudy",Rudy Gobert,TRUE,2013,2019,rudy_gobert,1610612762,Utah,Jazz,UTA,jazz,Y,01,Rudy Gobert
+1629164,"Goodwin, Brandon",Brandon Goodwin,FALSE,2018,2019,brandon_goodwin,0,,,,,Y,01,Brandon Goodwin
+203932,"Gordon, Aaron",Aaron Gordon,TRUE,2014,2019,aaron_gordon,1610612753,Orlando,Magic,ORL,magic,Y,00,Aaron Gordon
+201569,"Gordon, Eric",Eric Gordon,TRUE,2008,2019,eric_gordon,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00,Eric Gordon
+101162,"Gortat, Marcin",Marcin Gortat,TRUE,2007,2018,marcin_gortat,1610612764,Washington,Wizards,WAS,wizards,Y,01,Marcin Gortat
+1628984,"Graham, Devonte'",Devonte' Graham,FALSE,2018,2019,devonte_graham,0,,,,,Y,01,Devonte' Graham
+1626203,"Graham, Treveon",Treveon Graham,FALSE,2016,2019,treveon_graham,0,,,,,Y,11,Treveon Graham
+203924,"Grant, Jerami",Jerami Grant,TRUE,2014,2019,jerami_grant,1610612755,Philadelphia,76ers,PHI,sixers,Y,00,Jerami Grant
+1626170,"Grant, Jerian",Jerian Grant,TRUE,2015,2018,jerian_grant,1610612752,New York,Knicks,NYK,knicks,Y,01,Jerian Grant
+1629055,"Grantham, Donte",Donte Grantham,FALSE,2018,2018,donte_grantham,0,,,,,Y,01,Donte Grantham
+201980,"Green, Danny",Danny Green,TRUE,2009,2019,danny_green,1610612759,San Antonio,Spurs,SAS,spurs,Y,01,Danny Green
+203110,"Green, Draymond",Draymond Green,TRUE,2012,2019,draymond_green,1610612744,Golden State,Warriors,GSW,warriors,Y,00,Draymond Green
+101123,"Green, Gerald",Gerald Green,TRUE,2005,2019,gerald_green,1610612748,Miami,Heat,MIA,heat,Y,01,Gerald Green
+203210,"Green, JaMychal",JaMychal Green,TRUE,2014,2019,jamychal_green,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,01,JaMychal Green
+201145,"Green, Jeff",Jeff Green,TRUE,2007,2019,jeff_green,1610612746,LA,Clippers,LAC,clippers,Y,00,Jeff Green
+201933,"Griffin, Blake",Blake Griffin,TRUE,2009,2019,blake_griffin,1610612746,LA,Clippers,LAC,clippers,Y,00,Blake Griffin
+1627772,"Hamilton, Daniel",Daniel Hamilton,FALSE,2017,2018,daniel_hamilton,0,,,,,Y,01,Daniel Hamilton
+1628605,"Hannahs, Dusty",Dusty Hannahs,FALSE,2018,2018,dusty_hannahs,0,,,,,Y,01,Dusty Hannahs
+203501,"Hardaway Jr., Tim",Tim Hardaway Jr.,TRUE,2013,2019,tim_hardaway jr.,1610612737,Atlanta,Hawks,ATL,hawks,Y,11,Tim Hardaway Jr.
+201935,"Harden, James",James Harden,TRUE,2009,2019,james_harden,1610612745,Houston,Rockets,HOU,rockets,Y,00,James Harden
+203090,"Harkless, Maurice",Maurice Harkless,TRUE,2012,2019,maurice_harkless,1610612757,Portland,Trail Blazers,POR,blazers,Y,00,Maurice Harkless
+1626149,"Harrell, Montrezl",Montrezl Harrell,TRUE,2015,2019,montrezl_harrell,1610612745,Houston,Rockets,HOU,rockets,Y,11,Montrezl Harrell
+2734,"Harris, Devin",Devin Harris,TRUE,2004,2018,devin_harris,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00,Devin Harris
+203914,"Harris, Gary",Gary Harris,TRUE,2014,2019,gary_harris,1610612743,Denver,Nuggets,DEN,nuggets,Y,00,Gary Harris
+203925,"Harris, Joe",Joe Harris,FALSE,2014,2019,joe_harris,0,,,,,Y,11,Joe Harris
+202699,"Harris, Tobias",Tobias Harris,TRUE,2011,2019,tobias_harris,1610612765,Detroit,Pistons,DET,pistons,Y,00,Tobias Harris
+1626150,"Harrison, Andrew",Andrew Harrison,FALSE,2016,2018,andrew_harrison,0,,,,,Y,11,Andrew Harrison
+1627885,"Harrison, Shaquille",Shaquille Harrison,FALSE,2017,2019,shaquille_harrison,0,,,,,Y,01,Shaquille Harrison
+1628404,"Hart, Josh",Josh Hart,FALSE,2017,2019,josh_hart,0,,,,,Y,01,Josh Hart
+1628392,"Hartenstein, Isaiah",Isaiah Hartenstein,FALSE,2018,2019,isaiah_hartenstein,0,,,,,Y,01,Isaiah Hartenstein
+2617,"Haslem, Udonis",Udonis Haslem,TRUE,2003,2019,udonis_haslem,1610612748,Miami,Heat,MIA,heat,Y,00,Udonis Haslem
+202330,"Hayward, Gordon",Gordon Hayward,TRUE,2010,2019,gordon_hayward,1610612762,Utah,Jazz,UTA,jazz,Y,00,Gordon Hayward
+203089,"Henson, John",John Henson,TRUE,2012,2019,john_henson,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00,John Henson
+1627823,"Hernangomez, Juancho",Juancho Hernangomez,FALSE,2016,2019,juan_hernangomez,0,,,,,Y,01,Juancho Hernangomez
+1626195,"Hernangomez, Willy",Willy Hernangomez,FALSE,2016,2019,willy_hernangomez,0,,,,,Y,00,Willy Hernangomez
+1626209,"Hezonja, Mario",Mario Hezonja,TRUE,2015,2019,mario_hezonja,1610612753,Orlando,Magic,ORL,magic,Y,00,Mario Hezonja
+1628439,"Hicks, Isaiah",Isaiah Hicks,FALSE,2017,2018,isaiah_hicks,0,,,,,Y,01,Isaiah Hicks
+1627741,"Hield, Buddy",Buddy Hield,FALSE,2016,2019,buddy_hield,0,,,,,Y,00,Buddy Hield
+1629312,"Highsmith, Haywood",Haywood Highsmith,FALSE,2018,2018,haywood_highsmith,0,,,,,Y,01,Haywood Highsmith
+2403,Nene,Nene,TRUE,2002,2019,nene_hilario,1610612764,Washington,Wizards,WAS,wizards,Y,00,Nene
+201588,"Hill, George",George Hill,TRUE,2008,2019,george_hill,1610612754,Indiana,Pacers,IND,pacers,Y,00,George Hill
+203524,"Hill, Solomon",Solomon Hill,TRUE,2013,2019,solomon_hill,1610612754,Indiana,Pacers,IND,pacers,Y,01,Solomon Hill
+1628988,"Holiday, Aaron",Aaron Holiday,FALSE,2018,2019,aaron_holiday,0,,,,,Y,00,Aaron Holiday
+201950,"Holiday, Jrue",Jrue Holiday,TRUE,2009,2019,jrue_holiday,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00,Jrue Holiday
+203200,"Holiday, Justin",Justin Holiday,TRUE,2012,2019,justin_holiday,1610612741,Chicago,Bulls,CHI,bulls,Y,01,Justin Holiday
+204066,"Holland, John",John Holland,TRUE,2015,2018,john_holland,1610612738,Boston,Celtics,BOS,celtics,Y,11,John Holland
+1626178,"Hollis-Jefferson, Rondae",Rondae Hollis-Jefferson,TRUE,2015,2019,rondae_hollis-jefferson,1610612751,Brooklyn,Nets,BKN,nets,Y,00,Rondae Hollis-Jefferson
+1626158,"Holmes, Richaun",Richaun Holmes,TRUE,2015,2019,richaun_holmes,1610612755,Philadelphia,76ers,PHI,sixers,Y,01,Richaun Holmes
+203918,"Hood, Rodney",Rodney Hood,TRUE,2014,2019,rodney_hood,1610612762,Utah,Jazz,UTA,jazz,Y,00,Rodney Hood
+201143,"Horford, Al",Al Horford,TRUE,2007,2019,al_horford,1610612737,Atlanta,Hawks,ATL,hawks,Y,00,Al Horford
+1627863,"House Jr., Danuel",Danuel House Jr.,FALSE,2016,2019,danuel_house,0,,,,,Y,01,Danuel House Jr.
+2730,"Howard, Dwight",Dwight Howard,TRUE,2004,2019,dwight_howard,1610612745,Houston,Rockets,HOU,rockets,Y,00,Dwight Howard
+1628989,"Huerter, Kevin",Kevin Huerter,FALSE,2018,2019,kevin_huerter,0,,,,,Y,00,Kevin Huerter
+1629353,"Humphries, Isaac",Isaac Humphries,FALSE,2018,2018,isaac_humphries,0,,,,,Y,01,Isaac Humphries
+1626154,"Hunter, RJ",RJ Hunter,TRUE,2015,2018,rj_hunter,1610612738,Boston,Celtics,BOS,celtics,Y,11,RJ Hunter
+1628990,"Hutchison, Chandler",Chandler Hutchison,FALSE,2018,2019,chandler_hutchison,0,,,,,Y,00,Chandler Hutchison
+201586,"Ibaka, Serge",Serge Ibaka,TRUE,2009,2019,serge_ibaka,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00,Serge Ibaka
+2738,"Iguodala, Andre",Andre Iguodala,TRUE,2004,2019,andre_iguodala,1610612744,Golden State,Warriors,GSW,warriors,Y,00,Andre Iguodala
+101141,"Ilyasova, Ersan",Ersan Ilyasova,TRUE,2006,2019,ersan_ilyasova,1610612753,Orlando,Magic,ORL,magic,Y,01,Ersan Ilyasova
+204060,"Ingles, Joe",Joe Ingles,TRUE,2014,2019,joe_ingles,1610612762,Utah,Jazz,UTA,jazz,Y,00,Joe Ingles
+201281,"Ingram, Andre",Andre Ingram,FALSE,2017,2018,andre_ingram,0,,,,,Y,11,Andre Ingram
+1627742,"Ingram, Brandon",Brandon Ingram,FALSE,2016,2019,brandon_ingram,0,,,,,Y,00,Brandon Ingram
+202681,"Irving, Kyrie",Kyrie Irving,TRUE,2011,2019,kyrie_irving,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00,Kyrie Irving
+1628371,"Isaac, Jonathan",Jonathan Isaac,FALSE,2017,2019,jonathan_isaac,0,,,,,Y,01,Jonathan Isaac
+1628411,"Iwundu, Wes",Wes Iwundu,FALSE,2017,2019,wes_iwundu,0,,,,,Y,01,Wes Iwundu
+1627743,"Jackson, Demetrius",Demetrius Jackson,FALSE,2016,2018,demetrius_jackson,0,,,,,Y,01,Demetrius Jackson
+1628402,"Jackson, Frank",Frank Jackson,FALSE,2017,2019,frank_jackson,0,,,,,Y,01,Frank Jackson
+1628367,"Jackson, Josh",Josh Jackson,FALSE,2017,2019,josh_jackson,0,,,,,Y,01,Josh Jackson
+1628382,"Jackson, Justin",Justin Jackson,FALSE,2017,2019,justin_jackson,0,,,,,Y,01,Justin Jackson
+202704,"Jackson, Reggie",Reggie Jackson,TRUE,2011,2019,reggie_jackson,1610612765,Detroit,Pistons,DET,pistons,Y,01,Reggie Jackson
+1628991,"Jackson Jr., Jaren",Jaren Jackson Jr.,FALSE,2018,2019,jaren_jackson_jr,0,,,,,Y,00,Jaren Jackson Jr.
+2544,"James, LeBron",LeBron James,TRUE,2003,2019,lebron_james,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00,LeBron James
+1628518,"Jefferson, Amile",Amile Jefferson,FALSE,2017,2019,amile_jefferson,0,,,,,Y,01,Amile Jefferson
+203098,"Jenkins, John",John Jenkins,TRUE,2012,2018,john_jenkins,1610612756,Phoenix,Suns,PHX,suns,Y,01,John Jenkins
+201973,"Jerebko, Jonas",Jonas Jerebko,TRUE,2009,2018,jonas_jerebko,1610612738,Boston,Celtics,BOS,celtics,Y,00,Jonas Jerebko
+1628993,"Johnson, Alize",Alize Johnson,FALSE,2018,2019,alize_johnson,0,,,,,Y,01,Alize Johnson
+101161,"Johnson, Amir",Amir Johnson,TRUE,2005,2018,amir_johnson,1610612738,Boston,Celtics,BOS,celtics,Y,01,Amir Johnson
+1629168,"Johnson, BJ",BJ Johnson,FALSE,2018,2019,bj_johnson,0,,,,,Y,01,BJ Johnson
+201949,"Johnson, James",James Johnson,TRUE,2009,2019,james_johnson,1610612761,Toronto,Raptors,TOR,raptors,Y,01,James Johnson
+1626169,"Johnson, Stanley",Stanley Johnson,TRUE,2015,2019,stanley_johnson,1610612765,Detroit,Pistons,DET,pistons,Y,01,Stanley Johnson
+204020,"Johnson, Tyler",Tyler Johnson,TRUE,2014,2019,tyler_johnson,1610612748,Miami,Heat,MIA,heat,Y,01,Tyler Johnson
+202325,"Johnson, Wesley",Wesley Johnson,TRUE,2010,2018,wesley_johnson,1610612746,LA,Clippers,LAC,clippers,Y,00,Wesley Johnson
+203999,"Jokic, Nikola",Nikola Jokic,TRUE,2015,2019,nikola_jokic,1610612743,Denver,Nuggets,DEN,nuggets,Y,00,Nikola Jokic
+1627745,"Jones, Damian",Damian Jones,FALSE,2016,2019,damian_jones,0,,,,,Y,01,Damian Jones
+1627883,"Jones, Jalen",Jalen Jones,FALSE,2017,2018,jalen_jones,0,,,,,Y,01,Jalen Jones
+1629203,"Jones, Jemerrio",Jemerrio Jones,FALSE,2018,2018,jemerrio_jones,0,,,,,Y,01,Jemerrio Jones
+203093,"Jones, Terrence",Terrence Jones,TRUE,2012,2018,terrence_jones,1610612745,Houston,Rockets,HOU,rockets,Y,01,Terrence Jones
+1626145,"Jones, Tyus",Tyus Jones,TRUE,2015,2019,tyus_jones,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,11,Tyus Jones
+1627884,"Jones Jr., Derrick",Derrick Jones Jr.,FALSE,2016,2019,derrick_jones jr.,0,,,,,Y,01,Derrick Jones Jr.
+201599,"Jordan, DeAndre",DeAndre Jordan,TRUE,2008,2019,deandre_jordan,1610612746,LA,Clippers,LAC,clippers,Y,00,DeAndre Jordan
+202709,"Joseph, Cory",Cory Joseph,TRUE,2011,2019,cory_joseph,1610612761,Toronto,Raptors,TOR,raptors,Y,01,Cory Joseph
+1626163,"Kaminsky, Frank",Frank Kaminsky,TRUE,2015,2019,frank_kaminsky,1610612766,Charlotte,Hornets,CHA,hornets,Y,00,Frank Kaminsky
+202683,"Kanter, Enes",Enes Kanter,TRUE,2011,2019,enes_kanter,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00,Enes Kanter
+1628379,"Kennard, Luke",Luke Kennard,FALSE,2017,2019,luke_kennard,0,,,,,Y,01,Luke Kennard
+203077,"Kidd-Gilchrist, Michael",Michael Kidd-Gilchrist,TRUE,2012,2019,michael_kidd-gilchrist,1610612766,Charlotte,Hornets,CHA,hornets,Y,00,Michael Kidd-Gilchrist
+77268,"King, George",George King,FALSE,1951,1957,HISTADD_george_king,0,,,,,Y,00,George King
+1628994,"King, George",George King,FALSE,2018,2018,george_king,0,,,,,Y,01,George King
+1628467,"Kleber, Maxi",Maxi Kleber,FALSE,2017,2019,maxi_kleber,0,,,,,Y,00,Maxi Kleber
+202688,"Knight, Brandon",Brandon Knight,TRUE,2011,2019,brandon_knight,1610612756,Phoenix,Suns,PHX,suns,Y,01,Brandon Knight
+1627788,"Korkmaz, Furkan",Furkan Korkmaz,FALSE,2017,2019,furkan_korkmaz,0,,,,,Y,01,Furkan Korkmaz
+1628436,"Kornet, Luke",Luke Kornet,FALSE,2017,2019,luke_kornet,0,,,,,Y,01,Luke Kornet
+2594,"Korver, Kyle",Kyle Korver,TRUE,2003,2019,kyle_korver,1610612737,Atlanta,Hawks,ATL,hawks,Y,00,Kyle Korver
+201585,"Koufos, Kosta",Kosta Koufos,TRUE,2008,2018,kosta_koufos,1610612758,Sacramento,Kings,SAC,kings,Y,01,Kosta Koufos
+1629066,"Kurucs, Rodions",Rodions Kurucs,FALSE,2018,2019,rodions_kurucs,0,,,,,Y,01,Rodions Kurucs
+1628398,"Kuzma, Kyle",Kyle Kuzma,FALSE,2017,2019,kyle_kuzma,0,,,,,Y,00,Kyle Kuzma
+203897,"LaVine, Zach",Zach LaVine,TRUE,2014,2019,zach_lavine,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00,Zach LaVine
+1627746,"Labissiere, Skal",Skal Labissiere,FALSE,2016,2019,skal_labissiere,0,,,,,Y,01,Skal Labissiere
+203087,"Lamb, Jeremy",Jeremy Lamb,TRUE,2012,2019,jeremy_lamb,1610612766,Charlotte,Hornets,CHA,hornets,Y,01,Jeremy Lamb
+1627774,"Layman, Jake",Jake Layman,FALSE,2016,2019,jake_layman,0,,,,,Y,01,Jake Layman
+1627747,"LeVert, Caris",Caris LeVert,FALSE,2016,2019,caris_levert,0,,,,,Y,00,Caris LeVert
+1628388,"Leaf, TJ",TJ Leaf,FALSE,2017,2019,tj_leaf,0,,,,,Y,01,TJ Leaf
+201584,"Lee, Courtney",Courtney Lee,TRUE,2008,2019,courtney_lee,1610612766,Charlotte,Hornets,CHA,hornets,Y,01,Courtney Lee
+1627814,"Lee, Damion",Damion Lee,FALSE,2017,2019,damion_lee,0,,,,,Y,01,Damion Lee
+203458,"Len, Alex",Alex Len,TRUE,2013,2019,alex_len,1610612756,Phoenix,Suns,PHX,suns,Y,00,Alex Len
+202695,"Leonard, Kawhi",Kawhi Leonard,TRUE,2011,2019,kawhi_leonard,1610612759,San Antonio,Spurs,SAS,spurs,Y,00,Kawhi Leonard
+203086,"Leonard, Meyers",Meyers Leonard,TRUE,2012,2019,meyers_leonard,1610612757,Portland,Trail Blazers,POR,blazers,Y,00,Meyers Leonard
+202720,"Leuer, Jon",Jon Leuer,TRUE,2011,2018,jon_leuer,1610612756,Phoenix,Suns,PHX,suns,Y,01,Jon Leuer
+203081,"Lillard, Damian",Damian Lillard,TRUE,2012,2019,damian_lillard,1610612757,Portland,Trail Blazers,POR,blazers,Y,00,Damian Lillard
+202391,"Lin, Jeremy",Jeremy Lin,TRUE,2010,2018,jeremy_lin,1610612766,Charlotte,Hornets,CHA,hornets,Y,01,Jeremy Lin
+2733,"Livingston, Shaun",Shaun Livingston,TRUE,2004,2018,shaun_livingston,1610612744,Golden State,Warriors,GSW,warriors,Y,01,Shaun Livingston
+1629155,"Lofton, Zach",Zach Lofton,FALSE,2018,2018,zach_lofton,0,,,,,Y,01,Zach Lofton
+1626172,"Looney, Kevon",Kevon Looney,TRUE,2015,2019,kevon_looney,1610612744,Golden State,Warriors,GSW,warriors,Y,11,Kevon Looney
+201572,"Lopez, Brook",Brook Lopez,TRUE,2008,2019,brook_lopez,1610612751,Brooklyn,Nets,BKN,nets,Y,00,Brook Lopez
+201577,"Lopez, Robin",Robin Lopez,TRUE,2008,2019,robin_lopez,1610612752,New York,Knicks,NYK,knicks,Y,00,Robin Lopez
+201567,"Love, Kevin",Kevin Love,TRUE,2008,2019,kevin_love,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00,Kevin Love
+200768,"Lowry, Kyle",Kyle Lowry,TRUE,2006,2019,kyle_lowry,1610612761,Toronto,Raptors,TOR,raptors,Y,00,Kyle Lowry
+1628070,"Loyd, Jordan",Jordan Loyd,FALSE,2018,2018,jordan_loyd,0,,,,,Y,01,Jordan Loyd
+203564,"Lucas, Kalin",Kalin Lucas,FALSE,2014,2018,kalin_lucas,0,,,,,Y,01,Kalin Lucas
+1627789,"Luwawu-Cabarrot, Timothe",Timothe Luwawu-Cabarrot,FALSE,2016,2019,timothe_luwawu-cabarrot,0,,,,,Y,01,Timothe Luwawu-Cabarrot
+1628399,"Lydon, Tyler",Tyler Lydon,FALSE,2017,2018,tyler_lydon,0,,,,,Y,01,Tyler Lydon
+1626168,"Lyles, Trey",Trey Lyles,TRUE,2015,2019,trey_lyles,1610612762,Utah,Jazz,UTA,jazz,Y,00,Trey Lyles
+203159,"Machado, Scott",Scott Machado,FALSE,2012,2018,scott_machado,0,,,,,Y,01,Scott Machado
+202714,"Mack, Shelvin",Shelvin Mack,TRUE,2011,2018,shelvin_mack,1610612762,Utah,Jazz,UTA,jazz,Y,01,Shelvin Mack
+1629133,"Macon, Daryl",Daryl Macon,FALSE,2018,2019,daryl_macon,0,,,,,Y,01,Daryl Macon
+1629122,"Macura, J.P.",J.P. Macura,FALSE,2018,2018,jp_macura,0,,,,,Y,01,J.P. Macura
+101133,"Mahinmi, Ian",Ian Mahinmi,TRUE,2007,2019,ian_mahinmi,1610612754,Indiana,Pacers,IND,pacers,Y,01,Ian Mahinmi
+1627748,"Maker, Thon",Thon Maker,FALSE,2016,2019,thon_maker,0,,,,,Y,00,Thon Maker
+1626246,"Marjanovic, Boban",Boban Marjanovic,TRUE,2015,2019,boban_marjanovic,1610612759,San Antonio,Spurs,SAS,spurs,Y,11,Boban Marjanovic
+1628374,"Markkanen, Lauri",Lauri Markkanen,FALSE,2017,2019,lauri_markkanen,0,,,,,Y,00,Lauri Markkanen
+1626185,"Martin, Jarell",Jarell Martin,TRUE,2015,2018,jarell_martin,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,11,Jarell Martin
+1628412,"Mason, Frank",Frank Mason,FALSE,2017,2019,frank_mason,0,,,,,Y,01,Frank Mason
+1628999,"Maten, Yante",Yante Maten,FALSE,2018,2018,yaten_maten,0,,,,,Y,01,Yante Maten
+202083,"Matthews, Wesley",Wesley Matthews,TRUE,2009,2019,wesley_matthews,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00,Wesley Matthews
+201601,"Mbah a Moute, Luc",Luc Mbah a Moute,TRUE,2008,2018,luc_mbah a moute,1610612746,LA,Clippers,LAC,clippers,Y,00,Luc Mbah a Moute
+1628769,"McCall, Tahjere",Tahjere McCall,FALSE,2018,2018,tahjere_mccall,0,,,,,Y,01,Tahjere McCall
+1627775,"McCaw, Patrick",Patrick McCaw,FALSE,2016,2019,patrick_mccaw,0,,,,,Y,01,Patrick McCaw
+203468,"McCollum, CJ",CJ McCollum,TRUE,2013,2019,cj_mccollum,1610612757,Portland,Trail Blazers,POR,blazers,Y,01,CJ McCollum
+204456,"McConnell, T.J.",T.J. McConnell,TRUE,2015,2019,t.j._mcconnell,1610612755,Philadelphia,76ers,PHI,sixers,Y,00,T.J. McConnell
+203926,"McDermott, Doug",Doug McDermott,TRUE,2014,2019,doug_mcdermott,1610612741,Chicago,Bulls,CHI,bulls,Y,00,Doug McDermott
+201580,"McGee, JaVale",JaVale McGee,TRUE,2008,2019,javale_mcgee,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00,JaVale McGee
+203585,"McGruder, Rodney",Rodney McGruder,FALSE,2016,2019,rodney_mcgruder,0,,,,,Y,11,Rodney McGruder
+1628035,"McKinnie, Alfonzo",Alfonzo McKinnie,FALSE,2017,2019,alfonzo_mckinnie,0,,,,,Y,01,Alfonzo McKinnie
+203463,"McLemore, Ben",Ben McLemore,TRUE,2013,2019,ben_mclemore,1610612758,Sacramento,Kings,SAC,kings,Y,01,Ben McLemore
+203895,"McRae, Jordan",Jordan McRae,TRUE,2015,2019,jordan_mcrae,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,11,Jordan McRae
+201975,"Meeks, Jodie",Jodie Meeks,TRUE,2009,2018,jodie_meeks,1610612765,Detroit,Pistons,DET,pistons,Y,00,Jodie Meeks
+1626257,"Mejri, Salah",Salah Mejri,TRUE,2015,2018,salah_mejri,1610612742,Dallas,Mavericks,DAL,mavericks,Y,11,Salah Mejri
+1629001,"Melton, De'Anthony",De'Anthony Melton,FALSE,2018,2019,deanthony_melton,0,,,,,Y,01,De'Anthony Melton
+1629002,"Metu, Chimezie",Chimezie Metu,FALSE,2018,2019,chimezie_metu,0,,,,,Y,01,Chimezie Metu
+203114,"Middleton, Khris",Khris Middleton,TRUE,2012,2019,khris_middleton,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01,Khris Middleton
+101139,"Miles, CJ",CJ Miles,TRUE,2005,2019,cj_miles,1610612754,Indiana,Pacers,IND,pacers,Y,01,CJ Miles
+203121,"Miller, Darius",Darius Miller,FALSE,2012,2019,darius_miller,0,,,,,Y,01,Darius Miller
+1626259,"Miller, Malcolm",Malcolm Miller,FALSE,2017,2019,malcolm_miller,0,,,,,Y,11,Malcolm Miller
+201988,"Mills, Patty",Patty Mills,TRUE,2009,2019,patty_mills,1610612759,San Antonio,Spurs,SAS,spurs,Y,01,Patty Mills
+200794,"Millsap, Paul",Paul Millsap,TRUE,2006,2019,paul_millsap,1610612737,Atlanta,Hawks,ATL,hawks,Y,00,Paul Millsap
+1629003,"Milton, Shake",Shake Milton,FALSE,2018,2019,shake_milton,0,,,,,Y,01,Shake Milton
+202703,"Mirotic, Nikola",Nikola Mirotic,TRUE,2014,2018,nikola_mirotic,1610612741,Chicago,Bulls,CHI,bulls,Y,00,Nikola Mirotic
+1628378,"Mitchell, Donovan",Donovan Mitchell,FALSE,2017,2019,donovan_mitchell,0,,,,,Y,00,Donovan Mitchell
+1628513,"Mitrou-Long, Naz",Naz Mitrou-Long,FALSE,2017,2019,naz_mitrou-long,0,,,,,Y,01,Naz Mitrou-Long
+1628370,"Monk, Malik",Malik Monk,FALSE,2017,2019,malik_monk,0,,,,,Y,01,Malik Monk
+202328,"Monroe, Greg",Greg Monroe,TRUE,2010,2018,greg_monroe,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00,Greg Monroe
+202734,"Moore, E'Twaun",E'Twaun Moore,TRUE,2011,2019,e'twaun_moore,1610612741,Chicago,Bulls,CHI,bulls,Y,00,E'Twaun Moore
+203961,"Moreland, Eric",Eric Moreland,TRUE,2014,2018,eric_moreland,1610612758,Sacramento,Kings,SAC,kings,Y,11,Eric Moreland
+1628537,"Morris, Jaylen",Jaylen Morris,FALSE,2017,2018,jaylen_morris,0,,,,,Y,01,Jaylen Morris
+202693,"Morris, Markieff",Markieff Morris,TRUE,2011,2019,markieff_morris,1610612764,Washington,Wizards,WAS,wizards,Y,00,Markieff Morris
+1628420,"Morris, Monte",Monte Morris,FALSE,2017,2019,monte_morris,0,,,,,Y,01,Monte Morris
+202700,"Motiejunas, Donatas",Donatas Motiejunas,TRUE,2012,2018,donatas_motiejunas,1610612745,Houston,Rockets,HOU,rockets,Y,11,Donatas Motiejunas
+1628405,"Motley, Johnathan",Johnathan Motley,FALSE,2017,2019,johnathan_motley,0,,,,,Y,01,Johnathan Motley
+1626144,"Mudiay, Emmanuel",Emmanuel Mudiay,TRUE,2015,2019,emmanuel_mudiay,1610612743,Denver,Nuggets,DEN,nuggets,Y,00,Emmanuel Mudiay
+1627750,"Murray, Jamal",Jamal Murray,FALSE,2016,2019,jamal_murray,0,,,,,Y,00,Jamal Murray
+1629058,"Musa, Dzanan",Dzanan Musa,FALSE,2018,2019,dzanan_musa,0,,,,,Y,01,Dzanan Musa
+203488,"Muscala, Mike",Mike Muscala,TRUE,2013,2019,mike_muscala,1610612737,Atlanta,Hawks,ATL,hawks,Y,01,Mike Muscala
+1629004,"Mykhailiuk, Svi",Svi Mykhailiuk,FALSE,2018,2019,sviatoslav_mykhailiuk,0,,,,,Y,01,Svi Mykhailiuk
+1627846,"Nader, Abdel",Abdel Nader,FALSE,2017,2019,abdel_nader,0,,,,,Y,01,Abdel Nader
+1626204,"Nance Jr., Larry",Larry Nance Jr.,TRUE,2015,2019,larry_nance jr.,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00,Larry Nance Jr.
+203894,"Napier, Shabazz",Shabazz Napier,TRUE,2014,2019,shabazz_napier,1610612753,Orlando,Magic,ORL,magic,Y,01,Shabazz Napier
+203526,"Neto, Raul",Raul Neto,TRUE,2015,2019,raul_neto,1610612762,Utah,Jazz,UTA,jazz,Y,01,Raul Neto
+1627777,"Niang, Georges",Georges Niang,FALSE,2016,2019,georges_niang,0,,,,,Y,01,Georges Niang
+201149,"Noah, Joakim",Joakim Noah,TRUE,2007,2018,joakim_noah,1610612741,Chicago,Bulls,CHI,bulls,Y,01,Joakim Noah
+203457,"Noel, Nerlens",Nerlens Noel,TRUE,2013,2019,nerlens_noel,1610612755,Philadelphia,76ers,PHI,sixers,Y,00,Nerlens Noel
+1717,"Nowitzki, Dirk",Dirk Nowitzki,TRUE,1998,2018,dirk_nowitzki,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00,Dirk Nowitzki
+1628373,"Ntilikina, Frank",Frank Ntilikina,FALSE,2017,2019,frank_ntilikina,0,,,,,Y,00,Frank Ntilikina
+203263,"Nunnally, James",James Nunnally,FALSE,2013,2018,james_nunnally,0,,,,,Y,01,James Nunnally
+203994,"Nurkic, Jusuf",Jusuf Nurkic,TRUE,2014,2019,jusuf_nurkic,1610612743,Denver,Nuggets,DEN,nuggets,Y,00,Jusuf Nurkic
+1628021,"Nwaba, David",David Nwaba,FALSE,2016,2019,david_nwaba,0,,,,,Y,01,David Nwaba
+1626220,"O'Neale, Royce",Royce O'Neale,FALSE,2017,2019,royce_o'neale,0,,,,,Y,01,Royce O'Neale
+203124,"O'Quinn, Kyle",Kyle O'Quinn,TRUE,2012,2019,kyle_o'quinn,1610612752,New York,Knicks,NYK,knicks,Y,00,Kyle O'Quinn
+1628400,"Ojeleye, Semi",Semi Ojeleye,FALSE,2017,2019,semi_ojeleye,0,,,,,Y,00,Semi Ojeleye
+1626143,"Okafor, Jahlil",Jahlil Okafor,TRUE,2015,2019,jahlil_okafor,1610612755,Philadelphia,76ers,PHI,sixers,Y,00,Jahlil Okafor
+1629059,"Okobo, Elie",Elie Okobo,FALSE,2018,2019,elie_okobo,0,,,,,Y,01,Elie Okobo
+1629006,"Okogie, Josh",Josh Okogie,FALSE,2018,2019,josh_okogie,0,,,,,Y,00,Josh Okogie
+203506,"Oladipo, Victor",Victor Oladipo,TRUE,2013,2019,victor_oladipo,1610612753,Orlando,Magic,ORL,magic,Y,00,Victor Oladipo
+203482,"Olynyk, Kelly",Kelly Olynyk,TRUE,2013,2019,kelly_olynyk,1610612738,Boston,Celtics,BOS,celtics,Y,00,Kelly Olynyk
+1626224,"Osman, Cedi",Cedi Osman,FALSE,2017,2019,cedi_osman,0,,,,,Y,01,Cedi Osman
+1626162,"Oubre Jr., Kelly",Kelly Oubre Jr.,TRUE,2015,2019,kelly_oubre jr.,1610612764,Washington,Wizards,WAS,wizards,Y,00,Kelly Oubre Jr.
+2585,"Pachulia, Zaza",Zaza Pachulia,TRUE,2003,2018,zaza_pachulia,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00,Zaza Pachulia
+203953,"Parker, Jabari",Jabari Parker,TRUE,2014,2019,jabari_parker,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00,Jabari Parker
+2225,"Parker, Tony",Tony Parker,TRUE,2001,2018,tony_parker,1610612759,San Antonio,Spurs,SAS,spurs,Y,00,Tony Parker
+202718,"Parsons, Chandler",Chandler Parsons,TRUE,2011,2019,chandler_parsons,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00,Chandler Parsons
+202335,"Patterson, Patrick",Patrick Patterson,TRUE,2010,2019,patrick_patterson,1610612761,Toronto,Raptors,TOR,raptors,Y,01,Patrick Patterson
+1628383,"Patton, Justin",Justin Patton,FALSE,2017,2019,justin_patton,0,,,,,Y,01,Justin Patton
+101108,"Paul, Chris",Chris Paul,TRUE,2005,2019,chris_paul,1610612746,LA,Clippers,LAC,clippers,Y,00,Chris Paul
+1626166,"Payne, Cameron",Cameron Payne,TRUE,2015,2018,cameron_payne,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,11,Cameron Payne
+203901,"Payton, Elfrid",Elfrid Payton,TRUE,2014,2019,elfrid_payton,1610612753,Orlando,Magic,ORL,magic,Y,00,Elfrid Payton
+1627780,"Payton II, Gary",Gary Payton II,FALSE,2016,2018,gary_payton ii,0,,,,,Y,01,Gary Payton II
+1629033,"Pinson, Theo",Theo Pinson,FALSE,2018,2019,theo_pinson,0,,,,,Y,01,Theo Pinson
+203486,"Plumlee, Mason",Mason Plumlee,TRUE,2013,2019,mason_plumlee,1610612757,Portland,Trail Blazers,POR,blazers,Y,00,Mason Plumlee
+203101,"Plumlee, Miles",Miles Plumlee,TRUE,2012,2018,miles_plumlee,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01,Miles Plumlee
+1627751,"Poeltl, Jakob",Jakob Poeltl,FALSE,2016,2019,jakob_poeltl,0,,,,,Y,01,Jakob Poeltl
+202347,"Pondexter, Quincy",Quincy Pondexter,TRUE,2010,2018,quincy_pondexter,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00,Quincy Pondexter
+203490,"Porter Jr., Otto",Otto Porter Jr.,TRUE,2013,2019,otto_porter jr.,1610612764,Washington,Wizards,WAS,wizards,Y,00,Otto Porter Jr.
+1626171,"Portis, Bobby",Bobby Portis,TRUE,2015,2019,bobby_portis,1610612741,Chicago,Bulls,CHI,bulls,Y,01,Bobby Portis
+203939,"Powell, Dwight",Dwight Powell,TRUE,2014,2019,dwight_powell,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01,Dwight Powell
+1626181,"Powell, Norman",Norman Powell,TRUE,2015,2019,norman_powell,1610612761,Toronto,Raptors,TOR,raptors,Y,11,Norman Powell
+1627816,"Poythress, Alex",Alex Poythress,FALSE,2016,2018,alex_poythress,0,,,,,Y,01,Alex Poythress
+1627752,"Prince, Taurean",Taurean Prince,FALSE,2016,2019,taurean_prince,0,,,,,Y,01,Taurean Prince
+1627753,Zhou Qi,Zhou Qi,FALSE,2017,2018,zhou_qi,0,,,,,Y,01,Zhou Qi
+1628397,"Rabb, Ivan",Ivan Rabb,FALSE,2017,2019,ivan_rabb,0,,,,,Y,01,Ivan Rabb
+1626184,"Randle, Chasson",Chasson Randle,FALSE,2016,2018,chasson_randle,0,,,,,Y,01,Chasson Randle
+203944,"Randle, Julius",Julius Randle,TRUE,2014,2019,julius_randle,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00,Julius Randle
+200755,"Redick, JJ",JJ Redick,TRUE,2006,2019,jj_redick,1610612746,LA,Clippers,LAC,clippers,Y,00,JJ Redick
+1628432,"Reed, Davon",Davon Reed,FALSE,2017,2018,davon_reed,0,,,,,Y,01,Davon Reed
+1629244,"Reynolds, Cameron",Cameron Reynolds,FALSE,2018,2019,cameron_reynolds,0,,,,,Y,01,Cameron Reynolds
+1626196,"Richardson, Josh",Josh Richardson,TRUE,2015,2019,josh_richardson,1610612748,Miami,Heat,MIA,heat,Y,11,Josh Richardson
+1627781,"Richardson, Malachi",Malachi Richardson,FALSE,2016,2018,malachi_richardson,0,,,,,Y,01,Malachi Richardson
+203085,"Rivers, Austin",Austin Rivers,TRUE,2012,2019,austin_rivers,1610612746,LA,Clippers,LAC,clippers,Y,00,Austin Rivers
+1628421,"Robinson, Devin",Devin Robinson,FALSE,2017,2018,devin_robinson,0,,,,,Y,01,Devin Robinson
+1629130,"Robinson, Duncan",Duncan Robinson,FALSE,2018,2019,duncan_robinson,0,,,,,Y,01,Duncan Robinson
+1629010,"Robinson, Jerome",Jerome Robinson,FALSE,2018,2019,jerome_robinson,0,,,,,Y,01,Jerome Robinson
+1629011,"Robinson, Mitchell",Mitchell Robinson,FALSE,2018,2019,mitchell_robinson,0,,,,,Y,00,Mitchell Robinson
+203922,"Robinson III, Glenn",Glenn Robinson III,TRUE,2014,2019,glenn_robinson iii,1610612754,Indiana,Pacers,IND,pacers,Y,11,Glenn Robinson III
+200765,"Rondo, Rajon",Rajon Rondo,TRUE,2006,2019,rajon_rondo,1610612758,Sacramento,Kings,SAC,kings,Y,00,Rajon Rondo
+201565,"Rose, Derrick",Derrick Rose,TRUE,2008,2019,derrick_rose,1610612741,Chicago,Bulls,CHI,bulls,Y,00,Derrick Rose
+203082,"Ross, Terrence",Terrence Ross,TRUE,2012,2019,terrence_ross,1610612761,Toronto,Raptors,TOR,raptors,Y,00,Terrence Ross
+1626179,"Rozier, Terry",Terry Rozier,TRUE,2015,2019,terry_rozier,1610612738,Boston,Celtics,BOS,celtics,Y,11,Terry Rozier
+201937,"Rubio, Ricky",Ricky Rubio,TRUE,2011,2019,ricky_rubio,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00,Ricky Rubio
+1626156,"Russell, D'Angelo",D'Angelo Russell,TRUE,2015,2019,d'angelo_russell,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00,D'Angelo Russell
+1627734,"Sabonis, Domantas",Domantas Sabonis,FALSE,2016,2019,domantas_sabonis,0,,,,,Y,00,Domantas Sabonis
+1629102,"Sampson, Brandon",Brandon Sampson,FALSE,2018,2018,brandon_sampson,0,,,,,Y,01,Brandon Sampson
+203960,"Sampson, JaKarr",JaKarr Sampson,TRUE,2014,2019,jakarr_sampson,1610612743,Denver,Nuggets,DEN,nuggets,Y,01,JaKarr Sampson
+203967,"Saric, Dario",Dario Saric,FALSE,2016,2019,dario_saric,0,,,,,Y,00,Dario Saric
+203107,"Satoransky, Tomas",Tomas Satoransky,FALSE,2016,2019,tomas_satoransky,0,,,,,Y,00,Tomas Satoransky
+203471,"Schroder, Dennis",Dennis Schroder,TRUE,2013,2019,dennis_schroder,1610612737,Atlanta,Hawks,ATL,hawks,Y,01,Dennis Schroder
+203118,"Scott, Mike",Mike Scott,TRUE,2012,2019,mike_scott,1610612737,Atlanta,Hawks,ATL,hawks,Y,01,Mike Scott
+200757,"Sefolosha, Thabo",Thabo Sefolosha,TRUE,2006,2019,thabo_sefolosha,1610612737,Atlanta,Hawks,ATL,hawks,Y,00,Thabo Sefolosha
+1627782,"Selden, Wayne",Wayne Selden,FALSE,2016,2018,wayne_selden,0,,,,,Y,01,Wayne Selden
+1629012,"Sexton, Collin",Collin Sexton,FALSE,2018,2019,collin_sexton,0,,,,,Y,00,Collin Sexton
+1629013,"Shamet, Landry",Landry Shamet,FALSE,2018,2019,landry_shamet,0,,,,,Y,00,Landry Shamet
+202697,"Shumpert, Iman",Iman Shumpert,TRUE,2011,2019,iman_shumpert,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00,Iman Shumpert
+1627783,"Siakam, Pascal",Pascal Siakam,FALSE,2016,2019,pascal_siakam,0,,,,,Y,01,Pascal Siakam
+1626296,"Sibert, Jordan",Jordan Sibert,FALSE,2018,2018,jordan_sibert,0,,,,,Y,11,Jordan Sibert
+1627732,"Simmons, Ben",Ben Simmons,FALSE,2016,2019,ben_simmons,0,,,,,Y,00,Ben Simmons
+203613,"Simmons, Jonathon",Jonathon Simmons,TRUE,2015,2018,jonathon_simmons,1610612759,San Antonio,Spurs,SAS,spurs,Y,11,Jonathon Simmons
+1628424,"Simmons, Kobi",Kobi Simmons,FALSE,2017,2019,kobi_simmons,0,,,,,Y,01,Kobi Simmons
+1629014,"Simons, Anfernee",Anfernee Simons,FALSE,2018,2019,anfernee_simons,0,,,,,Y,01,Anfernee Simons
+203935,"Smart, Marcus",Marcus Smart,TRUE,2014,2019,marcus_smart,1610612738,Boston,Celtics,BOS,celtics,Y,01,Marcus Smart
+202397,"Smith, Ish",Ish Smith,TRUE,2010,2019,ish_smith,1610612755,Philadelphia,76ers,PHI,sixers,Y,01,Ish Smith
+2747,"Smith, JR",JR Smith,TRUE,2004,2018,jr_smith,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00,JR Smith
+201160,"Smith, Jason",Jason Smith,TRUE,2007,2018,jason_smith,1610612753,Orlando,Magic,ORL,magic,Y,00,Jason Smith
+1629015,"Smith, Zhaire",Zhaire Smith,FALSE,2018,2019,zhaire_smith,0,,,,,Y,01,Zhaire Smith
+1628372,"Smith Jr., Dennis",Dennis Smith Jr.,FALSE,2017,2019,dennis_smith jr.,0,,,,,Y,00,Dennis Smith Jr.
+203503,"Snell, Tony",Tony Snell,TRUE,2013,2019,tony_snell,1610612741,Chicago,Bulls,CHI,bulls,Y,00,Tony Snell
+1629034,"Spalding, Ray",Ray Spalding,FALSE,2018,2018,ray_spalding,0,,,,,Y,01,Ray Spalding
+1629016,"Spellman, Omari",Omari Spellman,FALSE,2018,2019,omari_spellman,0,,,,,Y,01,Omari Spellman
+203917,"Stauskas, Nik",Nik Stauskas,TRUE,2014,2018,nik_stauskas,1610612755,Philadelphia,76ers,PHI,sixers,Y,00,Nik Stauskas
+203474,"Stephens, DJ",DJ Stephens,FALSE,2013,2018,dj_stephens,0,,,,,Y,11,DJ Stephens
+202362,"Stephenson, Lance",Lance Stephenson,TRUE,2010,2018,lance_stephenson,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00,Lance Stephenson
+1628410,"Sumner, Edmond",Edmond Sumner,FALSE,2017,2019,edmond_sumner,0,,,,,Y,01,Edmond Sumner
+1628403,"Swanigan, Caleb",Caleb Swanigan,FALSE,2017,2019,caleb_swanigan,0,,,,,Y,01,Caleb Swanigan
+1628369,"Tatum, Jayson",Jayson Tatum,FALSE,2017,2019,jayson_tatum,0,,,,,Y,00,Jayson Tatum
+201952,"Teague, Jeff",Jeff Teague,TRUE,2009,2019,jeff_teague,1610612737,Atlanta,Hawks,ATL,hawks,Y,00,Jeff Teague
+202066,"Temple, Garrett",Garrett Temple,TRUE,2009,2019,garrett_temple,1610612764,Washington,Wizards,WAS,wizards,Y,01,Garrett Temple
+1628462,"Teodosic, Milos",Milos Teodosic,FALSE,2017,2018,milos_teodosic,0,,,,,Y,00,Milos Teodosic
+1629123,"Terrell, Jared",Jared Terrell,FALSE,2018,2018,jared_terrell,0,,,,,Y,01,Jared Terrell
+1629150,"Terry, Emanuel",Emanuel Terry,FALSE,2018,2018,emanuel_terry,0,,,,,Y,01,Emanuel Terry
+1628464,"Theis, Daniel",Daniel Theis,FALSE,2017,2019,daniel_theis,0,,,,,Y,00,Daniel Theis
+202738,"Thomas, Isaiah",Isaiah Thomas,TRUE,2011,2019,isaiah_thomas,1610612738,Boston,Celtics,BOS,celtics,Y,00,Isaiah Thomas
+1629017,"Thomas, Khyri",Khyri Thomas,FALSE,2018,2019,khyri_thomas,0,,,,,Y,01,Khyri Thomas
+202498,"Thomas, Lance",Lance Thomas,TRUE,2011,2018,lance_thomas,1610612752,New York,Knicks,NYK,knicks,Y,01,Lance Thomas
+202691,"Thompson, Klay",Klay Thompson,TRUE,2011,2019,klay_thompson,1610612744,Golden State,Warriors,GSW,warriors,Y,00,Klay Thompson
+202684,"Thompson, Tristan",Tristan Thompson,TRUE,2011,2019,tristan_thompson,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00,Tristan Thompson
+1628414,"Thornwell, Sindarius",Sindarius Thornwell,FALSE,2017,2018,sindarius_thornwell,0,,,,,Y,01,Sindarius Thornwell
+201229,"Tolliver, Anthony",Anthony Tolliver,TRUE,2008,2019,anthony_tolliver,1610612765,Detroit,Pistons,DET,pistons,Y,01,Anthony Tolliver
+1626157,"Towns, Karl-Anthony",Karl-Anthony Towns,TRUE,2015,2019,karl-anthony_towns,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00,Karl-Anthony Towns
+1629018,"Trent Jr., Gary",Gary Trent Jr.,FALSE,2018,2019,tmp_gary_trent,0,,,,,Y,01,Gary Trent Jr.
+1629019,"Trier, Allonzo",Allonzo Trier,FALSE,2018,2019,allonzo_trier,0,,,,,Y,00,Allonzo Trier
+202323,"Turner, Evan",Evan Turner,TRUE,2010,2019,evan_turner,1610612738,Boston,Celtics,BOS,celtics,Y,00,Evan Turner
+1626167,"Turner, Myles",Myles Turner,TRUE,2015,2019,myles_turner,1610612754,Indiana,Pacers,IND,pacers,Y,00,Myles Turner
+202327,"Udoh, Ekpe",Ekpe Udoh,FALSE,2010,2018,ekpe_udoh,0,,,,,Y,00,Ekpe Udoh
+1627755,"Ulis, Tyler",Tyler Ulis,FALSE,2016,2018,tyler_ulis,0,,,,,Y,01,Tyler Ulis
+202685,"Valanciunas, Jonas",Jonas Valanciunas,TRUE,2012,2019,jonas_valanciunas,1610612761,Toronto,Raptors,TOR,raptors,Y,00,Jonas Valanciunas
+1627832,"VanVleet, Fred",Fred VanVleet,FALSE,2016,2019,fred_vanvleet,0,,,,,Y,01,Fred VanVleet
+1629020,"Vanderbilt, Jarred",Jarred Vanderbilt,FALSE,2018,2019,jarred_vanderbilt,0,,,,,Y,01,Jarred Vanderbilt
+203943,"Vonleh, Noah",Noah Vonleh,TRUE,2014,2019,noah_vonleh,1610612757,Portland,Trail Blazers,POR,blazers,Y,01,Noah Vonleh
+202696,"Vucevic, Nikola",Nikola Vucevic,TRUE,2011,2019,nikola_vucevic,1610612753,Orlando,Magic,ORL,magic,Y,00,Nikola Vucevic
+2548,"Wade, Dwyane",Dwyane Wade,TRUE,2003,2018,dwyane_wade,1610612748,Miami,Heat,MIA,heat,Y,00,Dwyane Wade
+1629021,"Wagner, Moritz",Moritz Wagner,FALSE,2018,2019,moritz_wagner,0,,,,,Y,01,Moritz Wagner
+203079,"Waiters, Dion",Dion Waiters,TRUE,2012,2019,dion_waiters,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00,Dion Waiters
+202689,"Walker, Kemba",Kemba Walker,TRUE,2011,2019,kemba_walker,1610612766,Charlotte,Hornets,CHA,hornets,Y,00,Kemba Walker
+1629022,"Walker IV, Lonnie",Lonnie Walker IV,FALSE,2018,2019,lonnie_walker,0,,,,,Y,01,Lonnie Walker IV
+202322,"Wall, John",John Wall,TRUE,2010,2019,john_wall,1610612764,Washington,Wizards,WAS,wizards,Y,00,John Wall
+1627820,"Wallace, Tyrone",Tyrone Wallace,FALSE,2017,2019,tyrone_wallace,0,,,,,Y,01,Tyrone Wallace
+202954,"Wanamaker, Brad",Brad Wanamaker,FALSE,2018,2019,brad_wanamaker,0,,,,,Y,01,Brad Wanamaker
+203933,"Warren, T.J.",T.J. Warren,TRUE,2014,2019,tj_warren,1610612756,Phoenix,Suns,PHX,suns,Y,01,T.J. Warren
+1627395,"Washburn, Julian",Julian Washburn,FALSE,2018,2018,julian_washburn,0,,,,,Y,11,Julian Washburn
+1629139,"Watanabe, Yuta",Yuta Watanabe,FALSE,2018,2019,yuta_watanabe,0,,,,,Y,01,Yuta Watanabe
+1629118,"Welsh, Thomas",Thomas Welsh,FALSE,2018,2018,thomas_welsh,0,,,,,Y,01,Thomas Welsh
+201566,"Westbrook, Russell",Russell Westbrook,TRUE,2008,2019,russell_westbrook,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00,Russell Westbrook
+1628401,"White, Derrick",Derrick White,FALSE,2017,2019,derrick_white,0,,,,,Y,01,Derrick White
+1627855,"White, Okaro",Okaro White,FALSE,2016,2018,okaro_white,0,,,,,Y,01,Okaro White
+202355,"Whiteside, Hassan",Hassan Whiteside,TRUE,2010,2019,hassan_whiteside,1610612748,Miami,Heat,MIA,heat,Y,01,Hassan Whiteside
+203952,"Wiggins, Andrew",Andrew Wiggins,TRUE,2014,2019,andrew_wiggins,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00,Andrew Wiggins
+1626210,"Williams, Alan",Alan Williams,TRUE,2015,2018,alan_williams,1610612756,Phoenix,Suns,PHX,suns,Y,01,Alan Williams
+203710,"Williams, C.J.",C.J. Williams,FALSE,2017,2018,c.j._williams,0,,,,,Y,01,C.J. Williams
+1629140,"Williams, Johnathan",Johnathan Williams,FALSE,2018,2018,johnathan_williams,0,,,,,Y,01,Johnathan Williams
+1629026,"Williams, Kenrich",Kenrich Williams,FALSE,2018,2019,kenrich_williams,0,,,,,Y,01,Kenrich Williams
+101150,"Williams, Lou",Lou Williams,TRUE,2005,2019,lou_williams,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01,Lou Williams
+101107,"Williams, Marvin",Marvin Williams,TRUE,2005,2019,marvin_williams,1610612766,Charlotte,Hornets,CHA,hornets,Y,00,Marvin Williams
+1627786,"Williams, Troy",Troy Williams,FALSE,2016,2018,troy_williams,0,,,,,Y,01,Troy Williams
+1629057,"Williams III, Robert",Robert Williams III,FALSE,2018,2019,robert_williams,0,,,,,Y,01,Robert Williams III
+1628391,"Wilson, D.J.",D.J. Wilson,FALSE,2017,2019,d.j._wilson,0,,,,,Y,01,D.J. Wilson
+1626159,"Winslow, Justise",Justise Winslow,TRUE,2015,2019,justise_winslow,1610612748,Miami,Heat,MIA,heat,Y,00,Justise Winslow
+1626174,"Wood, Christian",Christian Wood,TRUE,2015,2019,christian_wood,1610612755,Philadelphia,76ers,PHI,sixers,Y,11,Christian Wood
+1626153,"Wright, Delon",Delon Wright,TRUE,2015,2019,delon_wright,1610612761,Toronto,Raptors,TOR,raptors,Y,11,Delon Wright
+1627824,"Yabusele, Guerschon",Guerschon Yabusele,FALSE,2017,2018,guerschon_yabusele,0,,,,,Y,01,Guerschon Yabusele
+201156,"Young, Nick",Nick Young,TRUE,2007,2018,nick_young,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00,Nick Young
+201152,"Young, Thaddeus",Thaddeus Young,TRUE,2007,2019,thaddeus_young,1610612751,Brooklyn,Nets,BKN,nets,Y,00,Thaddeus Young
+1629027,"Young, Trae",Trae Young,FALSE,2018,2019,trae_young,0,,,,,Y,00,Trae Young
+203469,"Zeller, Cody",Cody Zeller,TRUE,2013,2019,cody_zeller,1610612766,Charlotte,Hornets,CHA,hornets,Y,00,Cody Zeller
+203092,"Zeller, Tyler",Tyler Zeller,TRUE,2012,2018,tyler_zeller,1610612738,Boston,Celtics,BOS,celtics,Y,00,Tyler Zeller
+1627790,"Zizic, Ante",Ante Zizic,FALSE,2017,2019,ante_zizic,0,,,,,Y,01,Ante Zizic
+1627826,"Zubac, Ivica",Ivica Zubac,FALSE,2016,2019,ivica_zubac,0,,,,,Y,01,Ivica Zubac
